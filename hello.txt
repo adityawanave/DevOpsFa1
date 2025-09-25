@@ -1,6 +1,11 @@
 Hello DevOps
 <<<<<<< HEAD
+<<<<<<< HEAD
 Main branch line
 =======
 Feature branch line
 >>>>>>> feature/update
+=======
+Auto build test
+>>>>>>> feature/update
+Auto build test

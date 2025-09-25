@@ -1,2 +1,6 @@
 Hello DevOps
+<<<<<<< HEAD
 Main branch line
+=======
+Feature branch line
+>>>>>>> feature/update
